@@ -2,9 +2,12 @@ body {
   font-family: 'Merriweather', 'helvetica neue', arial, sans-serif;
 }
 #fontcontrol
+body {
+	color: red;
+}
 h1 {
 	font-size: 36px;
-	color: red;
+	color: #981E32;
 }
 
 h2 {
@@ -14,6 +17,7 @@ h2 {
 	width: 400px;
 	margin: 1px;
 	padding: 1px;
+	color: #981E32;
 }
 h3 {
 	font-size: 26px;
@@ -22,6 +26,7 @@ h3 {
 	width: 400px;
 	margin: 1px;
 	padding: 1px;
+	color: #981E32;
 }
 h4 {
 	font-size: 20px;
