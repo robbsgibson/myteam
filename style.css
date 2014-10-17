@@ -2,9 +2,7 @@ body {
   font-family: 'Merriweather', 'helvetica neue', arial, sans-serif;
 }
 #fontcontrol
-body {
-	color: red;
-}
+
 h1 {
 	font-size: 36px;
 	color: #981E32;
@@ -43,7 +41,7 @@ h5 {
 	padding: 1px;
 }
 img {
-	border: 1px solid grey;
+
 	
 }
 
