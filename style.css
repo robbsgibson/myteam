@@ -1,0 +1,68 @@
+body {
+  font-family: 'Merriweather', 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background-color: rgb(70,130,180);
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
+h1 {
+	font-size: 36px;
+}
+
+h2 {
+	font-size: 30px;
+	border: 1px;
+	height:50px;
+	width: 400px;
+	margin: 1px;
+	padding: 1px;
+}
+h3 {
+	font-size: 26px;
+	color: green;
+	border: 1px;
+	width: 400px;
+	margin: 1px;
+	padding: 1px;
+}
+h4 {
+	font-size: 20px;
+	border: 1px;
+	width: 800px;
+	margin: 1px;
+	padding: 1px;
+}
+
+h5 {
+	font-size: 12px;
+	width: 800px;
+	margin: 1px;
+	padding: 1px;
+}
+img {
+	border: 1px solid grey;
+	border-radius: 99px;
+	box-shadow: 10px 10px 5px grey;
+	float: right;
+}
+
+div#wrapper {
+	background-color: rgb(192,192,192);
+	width: 960px;
+	margin: 20px auto;
+	padding: 20px;
+
+}
+
+p, li{
+	line-height: 26px;
+}
+
+a {
+	color: red;
+}
+a:hover {
+	color: green;
+}
